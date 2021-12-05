@@ -1,0 +1,39 @@
+ASALAMMUALAIKUM ADICK ADICK
+
+KALO MAU RECORD IZIN GW DULU MEK
+
+
+INI SC UDH GW FIX BAILEYS
+
+
+COMMAND TERMUX
+
+$pkg update && pkg upgrade
+$pkg install nodejs
+$pkg install bash
+$pkg install ffmpeg
+$pkg install imagemagick
+$termux-setup-storage
+$cd /sdcard
+$cp -r nama file /$HOME
+$cd $cd nama file
+$bash install.sh
+$npm i @adiwajshing/baileys@3.5.3 && npm start
+
+SCAN DONE🎗
+
+NOTE : "$" jangan di ikutin
+
+
+TQ TO
+©GW SENDIRI
+©ZEOONE OFC
+©YT KAMIKAZE
+©ZERO YT7
+©BRUTAL
+©MOONA SENPAI
+©XSAWALY
+©PUTRA KELANA
+
+TQ TO MY TEAM 
+WONG HORE TEAM
